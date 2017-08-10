@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Gh+H9"]); }
+
+__d("XGroupsMuteMembersController",["XController"],(function a(b,c,d,e,f,g){f.exports=c("XController").create("\/groups\/mutemember\/",{group_id:{type:"FBID"},user_id:{type:"FBID"},mute_duration:{type:"Enum",enumType:1},source:{type:"Enum",enumType:1},should_reload:{type:"Bool",defaultValue:false},mute_reason:{type:"FBID"},custom_expiration:{type:"Int"}});}),null);

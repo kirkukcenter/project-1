@@ -1,0 +1,139 @@
+*{
+
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+
+
+
+/* Body start */
+
+body{
+height: 4000px;
+width: 1200px;
+	height: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-top: 11;
+	margin-right: auto;
+
+}
+
+/* body end    */
+
+
+.container{
+
+width: 1000px;
+	margin: auto;
+
+}
+
+
+
+
+/* start Header */
+
+
+
+.header .slider{
+height: 500px;
+background-image: url(images/h002.jpg); 
+
+}
+
+
+
+ul{
+list-style: none;
+margin: 0px;
+padding: 0px;
+
+
+}
+
+
+
+
+.header .navbar{
+background-color:#343654;
+color: #fff;
+overflow: hidden;
+border-color: #FCFF00;
+}
+
+
+}
+
+.header .navbar h4 span{
+	color: #f1c40f;
+}
+
+
+.header .navbar ul{
+list-style: none;
+padding: 0px;
+float: left;
+
+}
+
+.header .navbar ul li{
+
+	float: left;
+	padding: 20px;
+
+}
+
+/* End Header */
+
+
+
+
+
+
+
+
+
+/* Start Features */
+
+.featurs{
+	overflow: hidden;
+	padding-top: 10PX;
+	padding-bottom: 10PX;
+}
+
+.featurs .feat{
+float: left;
+width: 33.3333%;
+height: 200px;
+background-color: #f1c40f; /*for layout only */
+text-align: center;
+	border-radius: 5px;
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+
+
+.featurs .feat h2 {
+text-transform: uppercase;
+text-align: center;
+
+}
+
+
+
+/* End Features */
+
+
+
+/* About me */
+
+
+
+
+
+
+/* About me */
